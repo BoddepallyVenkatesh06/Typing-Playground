@@ -25,24 +25,24 @@ const Footer = () => {
           <GitHubIcon style={{ marginRight: "4px" }} />
         </a>
         <a
-          href="https://www.linkedin.com/in/amey-pankanti-260898189/"
+          href="https://www.linkedin.com/in/venkykumar0006/"
           target="_blank"
           rel="noreferrer"
         >
           <LinkedInIcon style={{ marginRight: "4px" }} />
         </a>
         <a
-          href="https://www.linkedin.com/in/amey-pankanti-260898189/"
+          href="https://www.linkedin.com/in/venkykumar0006/"
           target="_blank"
           rel="noreferrer"
         >
           <FacebookIcon style={{ marginRight: "4px" }} />
         </a>
-        <a href="https://bento.me/amey" target="_blank" rel="noreferrer">
+        <a href="https://bento.me/venkykumar0006" target="_blank" rel="noreferrer">
           <BentoIcon style={{ marginRight: "4px" }} />
         </a>
         <a
-          href="https://www.linkedin.com/in/amey-pankanti-260898189/"
+          href="https://www.linkedin.com/in/venkykumar0006/"
           target="_blank"
           rel="noreferrer"
         >
